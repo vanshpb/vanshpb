@@ -44,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshsethi&show_icons=true&theme=tokyonight" alt="vanshsethi GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshpb&show_icons=true&theme=tokyonight" alt="vanshpb GitHub stats"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsethi&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpb&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
